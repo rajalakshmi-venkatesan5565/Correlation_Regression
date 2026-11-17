@@ -28,3 +28,4 @@ If y represents the dependent variable and x the independent variable, this rela
 <img width="887" height="664" alt="image" src="https://github.com/user-attachments/assets/a286796c-d67c-4a6e-98bb-c6cdd6d52b22" />
 
 # Result:
+Thus, the coefficient of correlation and the regression line for the given data were calculated successfully using Python. The correlation coefficient obtained is -0.632, which indicates a moderate negative correlation between the variables X and Y. The regression line of Y on X was also plotted successfully.
